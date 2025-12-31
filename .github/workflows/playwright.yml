@@ -35,7 +35,7 @@ jobs:
       run: npx playwright install --with-deps chromium firefox
 
     - name: Run Playwright tests
-      run: npm test:student
+      run: npm run test:student
       continue-on-error: true
 
     - name: Upload Playwright Report
