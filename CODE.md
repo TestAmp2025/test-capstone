@@ -1542,6 +1542,9 @@ The tests run automatically in GitHub Actions when you:
 View the Allure report at:
 ```
 https://[your-username].github.io/[your-repo-name]/
+
+This is for this repo 👇
+https://TestAmp2025.github.io/test-capstone/
 ```
 
 ---
